@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Your Extension Name",
+    "version": "1.0",
+    "description": "Your Extension Description.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Open"
+    }
+  }
+  
