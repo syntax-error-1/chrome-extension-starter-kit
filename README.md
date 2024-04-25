@@ -14,12 +14,12 @@ Follow these steps to set up the development environment for your new extension.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/syntax-error-1/react-webpack-extension-starter.git
+   git clone https://github.com/syntax-error-1/chrome-extension-starter-kit.git
 
 
 2. **Navigate to the cloned directory:**
    ```bash
-    cd react-webpack-extension-starter
+    cd chrome-extension-starter-kit
 
 3. **Install the dependencies:**
    ```bash
